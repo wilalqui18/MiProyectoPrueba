@@ -1,0 +1,8 @@
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\bin\Debug\ProyectoPrueba.pdb
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.csprojResolveAssemblyReference.cache
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.Form1.resources
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.Properties.Resources.resources
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.csproj.GenerateResource.Cache
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.exe
+C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\ProyectoPrueba\ProyectoPrueba\obj\x86\Debug\ProyectoPrueba.pdb
