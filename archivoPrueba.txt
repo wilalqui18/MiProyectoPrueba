@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 hola mundo x5
 
 Este mensaje viene de un universo paralelo x22
 
 Mucho mas
+=======
+hola mundo x2
+
+Vamos Peru
+>>>>>>> testing
