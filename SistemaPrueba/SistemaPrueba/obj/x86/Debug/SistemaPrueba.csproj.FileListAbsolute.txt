@@ -1,7 +1,0 @@
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\bin\Debug\SistemaPrueba.exe
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\bin\Debug\SistemaPrueba.pdb
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\obj\x86\Debug\SistemaPrueba.Form1.resources
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\obj\x86\Debug\SistemaPrueba.Properties.Resources.resources
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\obj\x86\Debug\SistemaPrueba.csproj.GenerateResource.Cache
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\obj\x86\Debug\SistemaPrueba.exe
-C:\Users\PCWIL\Documents\Git\MiProyectoPrueba\SistemaPrueba\SistemaPrueba\obj\x86\Debug\SistemaPrueba.pdb
